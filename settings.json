@@ -1,4 +1,5 @@
 {
-	"fixed_nav_bar": "checked",
-	"siteId": "A12345"
+	"fixed_nav_bar": true,
+	"siteId": "A12345",
+	"id": "azerty1"
 }
