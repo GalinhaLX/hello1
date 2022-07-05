@@ -1,5 +1,9 @@
 {
 	"fixed_nav_bar": true,
 	"siteId": "A12345",
-	"id": "azerty1"
+	"id": "azerty1",
+	"hue": [
+		93,
+		180
+	]
 }
